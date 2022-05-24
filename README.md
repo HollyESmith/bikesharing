@@ -20,7 +20,7 @@ In addition, the graph shows that the hours between 1:00 AM - 5:00 AM have the l
 
 **Top Starting Locations**
 
-I then looked at top starting locations. This scatter plot may indicate that the center of the business district may be a good place for advertising to prospective bikesharers.
+I then looked at top starting locations. This scatter plot indicates that the center of the business district may be a good place for advertising to prospective bikesharers.
 
 ![TopStartingLocations](https://user-images.githubusercontent.com/97558998/170124556-31a8a733-267e-4649-825b-d55601b27606.png)
 
@@ -32,7 +32,7 @@ This line graph indicates that the duration of bike rides is relatively short:
 
 **Checkout Times by Gender**
 
-This line graph shows a huge difference between male (approximately 108,000) and female (approximately 34,000) customers.
+This line graph shows a huge difference between male (approximately 108,000) and female (approximately 34,000) users.
 
 ![CheckoutTimesGender](https://user-images.githubusercontent.com/97558998/170124919-f53ce9a5-7b85-49b7-b33c-fb8023916a89.png)
 
@@ -44,7 +44,7 @@ This heatmap shows that Monday, Tuesday, and Thursday afternoons between 5:00 �
 
 **Trips by Gender (Weekday per Hour)**
 
-This heatmap reiterates previous data - Monday, Tuesday, and Thursday afternoons are when most bike trips are taken between 5:00 – 7:00 PM; as shown on the Checkout Times by Gender graph, the majority of bikesharers are male.
+This heatmap reiterates previous data: Monday, Tuesday, and Thursday afternoons between 5:00 – 7:00 PM are when most bike trips are taken; as demonstrated on the Checkout Times by Gender graph, the majority of bikesharers are male.
 
 ![TripsWeekdayGenderHour](https://user-images.githubusercontent.com/97558998/170126635-0e20e3e8-5ac3-4df1-8c9f-d2f1913857c5.png)
 
@@ -56,7 +56,7 @@ In addition to showing previously shown frequency and gender data, this heatmap 
 
 ## Summary
 
-Based on this analysis, the investors can conclude that it is a promising business opportunity. I recommend an advertising campaign aimed at males in the densest business districts. The data also shows a good picture of the ebb and flow of bike sharing throughout the day. Ideally the analysis would encompass a longer time period, or at least a selection of months throughout the year to demonstrate seasonal usage. We don’t have any idea of usage during the colder months, which would be necessary to sustain the business. I would also explore income related data by neighborhood, to correlate potential usage by those who have more transportation needs.
+Based on this analysis, the investors can conclude that this is a promising business opportunity. I recommend an advertising campaign aimed at males in the densest business districts. The data also show a good picture of the ebb and flow of bike sharing throughout the day. Ideally the analysis would encompass a longer time period, or at least a selection of months throughout the year, to demonstrate seasonal usage. We don’t have any idea of usage during the colder months, which would be necessary to sustain the business. I would also explore income related data by neighborhood to correlate potential usage by those who have more transportation needs.
 
 Here is my Tableau Public link:
 
