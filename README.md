@@ -6,6 +6,10 @@
 
 A pair of individuals are interested in starting a bike share business in Des Moines, Iowa. They have a potential investor who is interested, and my assignment is to analyze existing New York City bike sharing data from August 2019 that might help predict whether the bike-share company idea could work in Des Moines. Once the analysis is complete, I am to transform that analysis into data visualization using Tableau for presentation to potential investors. 
 
+Prior to beginning this project I had to convert the "tripdurtion" datatype to perform the analysis. My working dataframe looked like this after the conversion:
+
+![dataframe](https://user-images.githubusercontent.com/97558998/170529652-bde8b2a9-bf75-40cb-a376-96e42f4779e3.png)
+
 ## Results
 
 **August Peak Hours**
@@ -14,7 +18,7 @@ First, I analyzed peak hours of usage. This bar chart indicates that peak hours 
 
 ![PeakHours](https://user-images.githubusercontent.com/97558998/170123913-1e9c7e38-d2f1-4dd6-b7ba-c9cc37b685be.png)
 
-In addition, the graph shows that the hours between 1:00 AM - 5:00 AM have the lowest usage, which is an ideal time for maintenance.
+In addition, the bar chart shows that the hours between 1:00 AM - 5:00 AM have the lowest usage, which is an ideal time for maintenance.
 
 ![MaintenanceHours](https://user-images.githubusercontent.com/97558998/170124263-cc8be0d3-9491-43bb-870a-16d4e6f43f63.png)
 
